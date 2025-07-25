@@ -39,7 +39,13 @@ Future Improvements:
 - Backend (MongoDB) support for user authentication and syncing
 
 Screenshot: 📸
-<img width="306" height="145" alt="image" src="https://github.com/user-attachments/assets/65a6b069-3a93-456b-a0a3-5e69e135462f" /> <img width="306" height="145" alt="image" src="https://github.com/user-attachments/assets/26660570-f0b1-40e5-8a82-1835e2effd4b" /><img width="281" height="143" alt="image" src="https://github.com/user-attachments/assets/3674e282-f864-4f7c-9e57-6674b9671eeb" /><img width="330" height="159" alt="image" src="https://github.com/user-attachments/assets/2d92fc1c-06cb-4095-8af2-0913ca40e26c" /><img width="329" height="159" alt="image" src="https://github.com/user-attachments/assets/92c8f258-afc7-4462-8fc3-9cfb2dcb94d4" />
+
+<img width="1910" height="908" alt="Screenshot 2025-07-25 160016" src="https://github.com/user-attachments/assets/8be26797-7938-42fa-bcd4-f8023bba51e8" />
+<img width="1910" height="908" alt="Screenshot 2025-07-25 160016" src="https://github.com/user-attachments/assets/fc2bb555-9fbb-40d8-88ff-1f99f4b7bc93" />
+<img width="1916" height="923" alt="Screenshot 2025-07-25 160129" src="https://github.com/user-attachments/assets/61c40c94-15c8-46e5-9b18-e72a34f551b2" />
+<img width="1914" height="925" alt="Screenshot 2025-07-25 160214" src="https://github.com/user-attachments/assets/8d090677-3cc2-4a3e-b314-a4278deae5c9" />
+<img width="1919" height="910" alt="Screenshot 2025-07-25 160226" src="https://github.com/user-attachments/assets/605d29c9-2942-4b68-8d4e-505ae23d917d" />
+
 
 
 
