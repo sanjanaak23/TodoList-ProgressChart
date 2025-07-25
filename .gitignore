@@ -1,0 +1,18 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temp files
+*.log
+*.tmp
+~$*
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Windows hidden files
+desktop.ini
+
+# # Optional: Ignore media if needed
+# *.mp4
+# *.jpg
